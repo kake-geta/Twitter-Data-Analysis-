@@ -58,5 +58,7 @@ class Clean_Tweets:
         
         df = df.query("lang == 'en' ")
         
-        return df
+       # return friends_count
         
+        
+        return df
